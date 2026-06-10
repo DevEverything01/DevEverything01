@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./assets/DevEverything01-glass-card.png" alt="Ethorn 埃森 GitHub profile glass card" width="420"/>
+
+<br/>
+<br/>
+
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=DevEverything01&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Intelligence%20·%20Engineering%20Everything&descSize=14&descColor=8b949e&descAlignY=55"/>
 
